@@ -15,3 +15,14 @@ Extract into your `resources/` folder and `ensure nc-minimap`.
 | Satmap Grid | `nc-minimap-styleSatmapGrid.zip` |
 
 Docs: https://docs.noxcore.me/nc-minimap
+
+## Legacy (older nc-minimap versions)
+
+Older releases used the previous style set — those archives still live under `html/mapStyles/`:
+
+| Style | File |
+|---|---|
+| Atlas | `html/mapStyles/styleAtlas.zip` |
+| Atlas Black | `html/mapStyles/styleAtlasBlack.zip` |
+| Grid | `html/mapStyles/styleGrid.zip` |
+| Satelite | `html/mapStyles/styleSatelite.zip` |
